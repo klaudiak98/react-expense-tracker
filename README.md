@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Expense Tracker React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### The expense tracker created with tutorial on YouTube ([Traversy Media](https://www.youtube.com/watch?v=XuFDcZABiDQ).
+### The expense tracker created with tutorial on YouTube ([Traversy Media](https://www.youtube.com/watch?v=XuFDcZABiDQ)).
 
 * Components
 * State
